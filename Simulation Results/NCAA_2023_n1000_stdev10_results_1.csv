@@ -1,0 +1,65 @@
+Region,Seed,Team,Sagarin rating,Win%
+South,1,Alabama,92.23,14.999999999999963
+South,2,Arizona,89.86,6.299999999999994
+South,3,Baylor,87.36,2.800000000000001
+South,4,Virginia,80.66,0.0
+South,5,San Diego State,85.19,0.4
+South,6,Creighton,87.63,2.600000000000001
+South,7,Missouri,82.38,0.2
+South,8,Maryland,85.47,0.6
+South,9,West Virginia,85.86,0.5
+South,10,Utah State,84.12,0.4
+South,11,NC State,83.25,0.1
+South,12,Charleston,80.69,0.0
+South,13,Furman,79.48,0.0
+South,14,UC Santa Barbara,76.41,0.0
+South,15,Princeton,76.31,0.0
+South,16,TAMU-CC,70.24,0.0
+East,1,Purdue,89.16,4.4
+East,2,Marquette,87.51,2.600000000000001
+East,3,Kansas State,85.34,0.9999999999999999
+East,4,Tennessee,89.28,5.099999999999998
+East,5,Duke,87.34,1.8000000000000005
+East,6,Kentucky,85.95,0.7999999999999999
+East,7,Michigan State,84.93,0.7999999999999999
+East,8,Memphis,86.53,0.7999999999999999
+East,9,Florida Atlantic,83.66,0.0
+East,10,Southern California,84.12,0.5
+East,11,Providence,84.12,0.5
+East,12,Oral Roberts,80.49,0.0
+East,13,Louisiana,77.42,0.0
+East,14,Montana State,74.72,0.0
+East,15,Vermont,76.74,0.0
+East,16,FDU,63.86,0.0
+Midwest,1,Houston,91.85,15.399999999999961
+Midwest,2,Texas,90.46,7.19999999999999
+Midwest,3,Xavier-Ohio,86.5,1.8000000000000005
+Midwest,4,Indiana,86.21,1.6000000000000003
+Midwest,5,Miami-Florida,84.18,0.5
+Midwest,6,Iowa State,84.82,0.2
+Midwest,7,Texas A&M,86.08,0.4
+Midwest,8,Iowa,84.85,0.1
+Midwest,9,Auburn,85.32,0.6
+Midwest,10,Penn State,83.88,0.30000000000000004
+Midwest,11,Pittsburgh,81.54,0.1
+Midwest,12,Drake,81.9,0.0
+Midwest,13,Kent State,81.09,0.0
+Midwest,14,Kennesaw State,73.1,0.0
+Midwest,15,Colgate,76.13,0.0
+Midwest,16,Northern Kentucky,72.62,0.0
+West,1,Kansas,89.95,4.5
+West,2,UCLA,91.21,8.099999999999987
+West,3,Gonzaga,90.47,5.399999999999997
+West,4,Connecticut,90.07,4.699999999999999
+West,5,Saint Mary's-Cal.,86.43,0.8999999999999999
+West,6,TCU,85.95,0.2
+West,7,Northwestern,83.93,0.30000000000000004
+West,8,Arkansas,85.76,0.4
+West,9,Illinois,85.3,0.1
+West,10,Boise State,81.89,0.0
+West,11,Arizona State,80.99,0.0
+West,12,VCU(Va. Commonwealth),83.45,0.0
+West,13,Iona,79.69,0.0
+West,14,Grand Canyon,76.0,0.0
+West,15,NC Asheville,72.84,0.0
+West,16,Howard,69.0,0.0
